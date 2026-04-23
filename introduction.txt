@@ -1,0 +1,6 @@
+ A Brief Introduction about myself
+ My names are IMANISHIMWE Aime Emmanuel am a software developer based in Rwanda
+ I am currently doing Alx Pathway program which started in early september last year in 2025 and ending this coming may!
+ So, am a bright student looking for opportunities to increase my understanding
+ of the world of tech with a strong ambition for low-level programming and DevOps,
+ now currently learning and practicing Go Languange and many other fields of tech
