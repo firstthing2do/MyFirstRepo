@@ -1,0 +1,2 @@
+What i have learned in this cource
+So basically i have learned the basic of git and github in this cource how to use it for version control, creating account on github how to clone from remote repo, how to add files in the staging area e.t.c..
